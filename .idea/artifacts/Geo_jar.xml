@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Geo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Geo_jar</output-path>
+    <root id="archive" name="Geo.jar">
+      <element id="module-output" name="Geo" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/json.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
